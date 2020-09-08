@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@gojob/eslint-config": "^3.0.0",
+    "eslint": "^7.8.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "jest": "^26.4.2",
+    "prettier": "^2.1.1",
+    "ts-jest": "^26.3.0",
+    "typescript": "^4.0.2"
+  }
+}

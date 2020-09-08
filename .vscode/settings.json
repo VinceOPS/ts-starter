@@ -1,0 +1,9 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    {"language": "typescript", "autoFix": true},
+    "typescriptreact"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

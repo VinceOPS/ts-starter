@@ -1,0 +1,4 @@
+./dist/**
+*.d.ts
+**/__generated__/**
+**/global-types.ts
