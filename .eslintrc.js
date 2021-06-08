@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['@gojob/eslint-config/typescript'],
+  extends: ['@vinceops/eslint-config/typescript'],
   plugins: ['jest'],
   rules: {
     'jest/expect-expect': 'off',
